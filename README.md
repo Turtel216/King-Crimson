@@ -1,2 +1,5 @@
 # King-Crimson
-A git clone
+
+A git clone made for inorder to git good
+
+## Usage
