@@ -1,5 +1,5 @@
 # King-Crimson
 
-A git clone made for inorder to git good
+A simple git clone made for educational purposes
 
 ## Usage
