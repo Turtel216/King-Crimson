@@ -19,6 +19,7 @@ int main(int argc, char *argv[]) {
 int handle_input(char *argv[], int argc) {
   switch (argc) {
   case 2:
+    return EXIT_SUCCESS;
     break;
   default:
     display_error("Invalid number of arguments arguments");

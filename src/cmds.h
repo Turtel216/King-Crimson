@@ -1,0 +1,15 @@
+void cmd_add(char *args[]);
+void cmd_cat_file(char *args[]);
+void cmd_check_ignore(char *args[]);
+void cmd_checkout(char *args[]);
+void cmd_commit(char *args[]);
+void cmd_hash_object(char *args[]);
+void cmd_init(char *args[]);
+void cmd_log(char *args[]);
+void cmd_ls_files(char *args[]);
+void cmd_ls_tree(char *args[]);
+void cmd_rev_parse(char *args[]);
+void cmd_rm(char *args[]);
+void cmd_show_ref(char *args[]);
+void cmd_status(char *args[]);
+void cmd_tag(char *args[]);
